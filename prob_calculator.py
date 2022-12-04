@@ -1,8 +1,8 @@
 import copy
 import random
-from typing import Dict, List
 
 # Consider using the modules imported above.
+from typing import Dict, List
 
 
 class Hat:
